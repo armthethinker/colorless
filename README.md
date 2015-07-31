@@ -1,7 +1,7 @@
 # colorless (v0.1)
-> Popular color libraries in LESS
+> Popular color palettes in LESS
 
-Use colorless.less to easily add popular color libraries/palettes/swatches to your LESS. Easily jumpstart the colors for your website, web app, or HTML prototype.
+Use colorless.less to easily add popular color palettes/libraries/swatches to your LESS. Easily jumpstart the colors for your website, web app, or HTML prototype.
 
 Included:
 - [Google's Matieral Design](http://www.google.com/design/spec/style/color.html)
@@ -16,4 +16,4 @@ Included:
   - Google+
 
 ## Contributing
-Feel free to do a pull request to add libraries or better the code in ways you see fit.
+Feel free to do a pull request to add palettes or better the code in ways you see fit.
