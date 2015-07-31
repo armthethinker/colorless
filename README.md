@@ -6,6 +6,7 @@ Use colorless.less to easily add popular color libraries/palettes/swatches to yo
 Included
 - [Google's Matieral Design](http://www.google.com/design/spec/style/color.html)
 - [Designmodo's Flat UI](http://designmodo.github.io/Flat-UI/)
+- [Bootstrap](http://getbootstrap.com)
 - Basic Brand Colors from
   - Facebook
   - Twitter
