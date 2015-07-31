@@ -12,3 +12,6 @@ Included
   - Pinterest
   - LinkedIn
   - Google+
+
+## Contributing
+Feel free to do a pull request to add libraries or better the code in ways you see fit.
